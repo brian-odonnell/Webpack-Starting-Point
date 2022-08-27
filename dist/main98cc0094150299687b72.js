@@ -874,10 +874,10 @@ var __webpack_exports__ = {};
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _scss_main_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../scss/main.scss */ "./src/scss/main.scss");
 
-console.log('App JS is running! -- WITH TS');
+console.log('Hello World');
 
 })();
 
 /******/ })()
 ;
-//# sourceMappingURL=mainec60603d1b3fdd862339.js.map
+//# sourceMappingURL=main98cc0094150299687b72.js.map
