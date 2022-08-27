@@ -9,6 +9,7 @@ This is a Webpack starting point from following [this tutorial](https://www.yout
 * Source Maps
 * Cache Busting Hashes
 * Bootstrap CSS
+* Typescript
 
 ## Commands
 * `npm run dev` : Starts a dev server at localhost:1234 and watches the code for any changes
