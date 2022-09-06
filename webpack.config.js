@@ -61,7 +61,7 @@ module.exports = {
         new HtmlWebpackPlugin({
             title: 'Webpack App',
             filename: 'index.html',
-            index: 'src/index.html'
+            template: 'src/index.html'
         })
     ]
 }
